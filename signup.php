@@ -1,7 +1,7 @@
 <?php require_once("facebook.php");
     $app_id = "560435230666875";
     $app_secret = "394c373ae4c61d8c6e2062798513170e";
-    $my_url = "http://beta.sauravmodak.com/nowplaying/phplogin.php";
+    $my_url = "http://nowplaying-sauravmbeta1.rhcloud.com/";
 
 session_start();
 
